@@ -36,6 +36,9 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 -Within the VM, create a new Resource Group and name it -- I used honeypotlab.
 -Name the VM -- I used honeypot. Choose Windows 10 Pro as the image.
 -Fill out the rest of the information as needed. Size of the VM is up to you, but Standard should be fine.
+-Click Next: Disks and then Next: Networking.
+-In the NIC network security group section, click Advanced and Create new in the Configure network security group section underneath.
+-Remove the default inbound rule and create a new one. Change Destination port ranges to * to allow all and a high priority so it's not filtered.
 </p>
 <br />
 
@@ -43,6 +46,9 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgtr.ee/image/I04rW"><img src="https://imgtr.ee/images/2023/07/01/ea0ed3f68c2773e52ae56e96d9bafb37.png" alt="ea0ed3f68c2773e52ae56e96d9bafb37.png" border="0"></a>
 <a href="https://ibb.co/x5dv72m"><img src="https://i.ibb.co/PC0p6rT/New-RG.png" alt="New-RG" border="0"></a>
 <a href="https://ibb.co/KyCHgBm"><img src="https://i.ibb.co/Lp4fyBv/VM-Setup-1.png" alt="VM-Setup-1" border="0"></a>
+<a href="https://imgtr.ee/image/I0RUK"><img src="https://imgtr.ee/images/2023/07/01/8de7790da8e3cb4ad260522dfd897706.png" alt="8de7790da8e3cb4ad260522dfd897706.png" border="0"></a>
+<img src="https://imgtr.ee/images/2023/07/01/4f5f90735c9ec0ac894d4b9528256a49.png" alt="4f5f90735c9ec0ac894d4b9528256a49.png" border="0">
+<img src="https://imgtr.ee/images/2023/07/01/b23807b4dae9d9b06cc9ba36ae2dde84.png" alt="b23807b4dae9d9b06cc9ba36ae2dde84.png" border="0">
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
