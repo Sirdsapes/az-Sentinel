@@ -119,6 +119,7 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 -Minimize the VM and go back to your PC. Open a Notepad and paste the contents and save it to your desktop as failed_rdp.log
 -Go back to Azure and select the log we just created and click Next. Fill in the Type section as shown -- the VMs location of the failed_rdp log is put in -- and click Next. 
 -Name it however you want -- I used failed_rdp; it will append it with _CL automatically -- and click Next.
+-Click Create. It will take a while for the analytics to actually populate.
 </p>
 <br />
 
@@ -128,6 +129,7 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgtr.ee/image/IQoSG"><img src="https://imgtr.ee/images/2023/07/01/f5e349b4c3ec5418de85065712d45e40.png" alt="f5e349b4c3ec5418de85065712d45e40.png" border="0"></a>
 <a href="https://imgtr.ee/image/ILUPm"><img src="https://imgtr.ee/images/2023/07/01/8f48f381e87f2e3514aea7539cbd1381.png" alt="8f48f381e87f2e3514aea7539cbd1381.png" border="0"></a>
 <a href="https://imgtr.ee/image/ILQch"><img src="https://imgtr.ee/images/2023/07/01/d1008b2d6314951e934437b54df7edf2.png" alt="d1008b2d6314951e934437b54df7edf2.png" border="0"></a>
+<a href="https://imgtr.ee/image/ILaUC"><img src="https://imgtr.ee/images/2023/07/01/96988c6e389eedc182c7b50427ee1a69.png" alt="96988c6e389eedc182c7b50427ee1a69.png" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
