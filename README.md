@@ -66,12 +66,15 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/fYwqZm4/Vm-Log-Dep.png" alt="Vm-Log-Dep" border="0"></a>
 </p>
 <p>
--Next, we'll go to Microsoft Defender for the Cloud and Environment settings.
+-Next, we'll go to Microsoft Defender for the Cloud and Environment settings and click the log analytics workspace we just set up under Name.
+-Turn SQL servers off and Save and then go to the Data collection section and click All events and Save.
 </p>
 <br />
 
 <p>
 <a href="https://imgtr.ee/image/IKziH"><img src="https://imgtr.ee/images/2023/07/01/edef34b843e4aacc8c61c0546fa1b610.png" alt="edef34b843e4aacc8c61c0546fa1b610.png" border="0"></a>
+<a href="https://imgtr.ee/image/IKuIA"><img src="https://imgtr.ee/images/2023/07/01/350a03013901e0eb2232395123f4de0f.png" alt="350a03013901e0eb2232395123f4de0f.png" border="0"></a>
+<a href="https://imgtr.ee/image/IKBWr"><img src="https://imgtr.ee/images/2023/07/01/2b0247a45b58d4ea26543a1bf631a947.png" alt="2b0247a45b58d4ea26543a1bf631a947.png" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
