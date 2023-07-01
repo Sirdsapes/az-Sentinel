@@ -66,12 +66,12 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/fYwqZm4/Vm-Log-Dep.png" alt="Vm-Log-Dep" border="0"></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-Next, we'll go to Microsoft Defender for the Cloud and Environment settings.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgtr.ee/image/IKziH"><img src="https://imgtr.ee/images/2023/07/01/edef34b843e4aacc8c61c0546fa1b610.png" alt="edef34b843e4aacc8c61c0546fa1b610.png" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
