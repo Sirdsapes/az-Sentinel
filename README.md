@@ -114,6 +114,32 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgtr.ee/image/IQOyU"><img src="https://imgtr.ee/images/2023/07/01/65aa047bf0a922b2854d5ff22852ab9d.png" alt="65aa047bf0a922b2854d5ff22852ab9d.png" border="0"></a>
 </p>
 <p>
+-Next, we go back to the Log Analytics Workspace in Azure. We need to create a new log. Go to Tables and Create (MMA-based).
+-Go back to the VM and go to the Program Data folder, i.e. C:\ProgramData\. Open failed_rdp and copy the contents.
+</p>
+<br />
+
+<p>
+<a href="https://imgtr.ee/image/IQ2HW"><img src="https://imgtr.ee/images/2023/07/01/d6dcecfcb0405aa30658616a0f7b2617.png" alt="d6dcecfcb0405aa30658616a0f7b2617.png" border="0"></a>
+<a href="https://imgtr.ee/image/IQ6Gl"><img src="https://imgtr.ee/images/2023/07/01/e8c01cb5e76e1850d3e6280ea926abb5.png" alt="e8c01cb5e76e1850d3e6280ea926abb5.png" border="0"></a>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
