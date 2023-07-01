@@ -40,7 +40,7 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <br />
 
 <p>
-<a href="https://ibb.co/b1pgT6p"><img src="https://i.ibb.co/cJzc0yz/VM-Create.png" alt="VM-Create" border="0"></a>
+<a href="https://imgtr.ee/image/I04rW"><img src="https://imgtr.ee/images/2023/07/01/ea0ed3f68c2773e52ae56e96d9bafb37.png" alt="ea0ed3f68c2773e52ae56e96d9bafb37.png" border="0"></a>
 <a href="https://ibb.co/x5dv72m"><img src="https://i.ibb.co/PC0p6rT/New-RG.png" alt="New-RG" border="0"></a>
 <a href="https://ibb.co/KyCHgBm"><img src="https://i.ibb.co/Lp4fyBv/VM-Setup-1.png" alt="VM-Setup-1" border="0"></a>
 </p>
