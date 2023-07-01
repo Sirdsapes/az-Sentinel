@@ -4,7 +4,7 @@ Setting up Azure Sentinel and monitoring attacks
 <a href="https://ibb.co/72ZfxzR"><img src="https://i.ibb.co/gzf2b7P/image.png" alt="image" border="0"></a>
 </p>
 
-<h1>Network Setting up Azure Sentinel and monitoring attacks</h1>
+<h1>Setting up Azure Sentinel and monitoring attacks</h1>
 In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and monitoring activity. <br />
 
 
