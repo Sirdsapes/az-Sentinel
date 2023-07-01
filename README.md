@@ -50,7 +50,7 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgtr.ee/image/I0RUK"><img src="https://imgtr.ee/images/2023/07/01/8de7790da8e3cb4ad260522dfd897706.png" alt="8de7790da8e3cb4ad260522dfd897706.png" border="0"></a>
 <img src="https://imgtr.ee/images/2023/07/01/4f5f90735c9ec0ac894d4b9528256a49.png" alt="4f5f90735c9ec0ac894d4b9528256a49.png" border="0">
 <img src="https://imgtr.ee/images/2023/07/01/b23807b4dae9d9b06cc9ba36ae2dde84.png" alt="b23807b4dae9d9b06cc9ba36ae2dde84.png" border="0">
-<a href="https://ibb.co/8XyCv4D"><img src="https://i.ibb.co/rvBj8fG/VM-Deploy.png" alt="VM-Deploy" border="0"></a>
+<a href="https://imgtr.ee/image/IKila"><img src="https://imgtr.ee/images/2023/07/01/9f5026b685a986a6c606ff1f96b7f3a6.png" alt="9f5026b685a986a6c606ff1f96b7f3a6.png" border="0"></a>
 </p>
 <p>
 -Next, we'll create a Log analytics workspace. Create a new log analytics workspace.
