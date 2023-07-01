@@ -130,6 +130,7 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgtr.ee/image/ILUPm"><img src="https://imgtr.ee/images/2023/07/01/8f48f381e87f2e3514aea7539cbd1381.png" alt="8f48f381e87f2e3514aea7539cbd1381.png" border="0"></a>
 <a href="https://imgtr.ee/image/ILQch"><img src="https://imgtr.ee/images/2023/07/01/d1008b2d6314951e934437b54df7edf2.png" alt="d1008b2d6314951e934437b54df7edf2.png" border="0"></a>
 <a href="https://imgtr.ee/image/ILaUC"><img src="https://imgtr.ee/images/2023/07/01/96988c6e389eedc182c7b50427ee1a69.png" alt="96988c6e389eedc182c7b50427ee1a69.png" border="0"></a>
+<a href="https://imgtr.ee/image/IGBWe"><img src="https://imgtr.ee/images/2023/07/01/4fb4e75cd17a9786b4cd24dd5236752c.png" alt="4fb4e75cd17a9786b4cd24dd5236752c.png" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
