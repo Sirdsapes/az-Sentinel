@@ -79,12 +79,31 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <p>
 -Next, we'll connect the log analytics and VM.
 -Go back to the Log analytics workspace and reopen the previously-made workspace, i.e. log-honeypot. Click the Virtual machines section in the left box. Then click the VM made earlier, i.e. honeypot, and click Connect.
+-While that is connecting, we'll set up Sentinel.
 </p>
 <br />
 
 <p>
 <a href="https://imgtr.ee/image/IKOmj"><img src="https://imgtr.ee/images/2023/07/01/07fe9f701d0b8ab95f74397a15da227b.png" alt="07fe9f701d0b8ab95f74397a15da227b.png" border="0"></a>
 <a href="https://imgtr.ee/image/IKavD"><img src="https://imgtr.ee/images/2023/07/01/cc35ef7b963abc46f613c46da94973ae.png" alt="cc35ef7b963abc46f613c46da94973ae.png" border="0"></a>
+</p>
+<p>
+-Go to the VM we set up earlier and copy the Public IP address and then open Remote Desktop Connection from your start menu and past the IP so we can remote into the VM. Remember to use the username and password that was set up when creating the VM earlier.
+-
+</p>
+<br />
+
+<p>
+<a href="https://imgtr.ee/image/IKxse"><img src="https://imgtr.ee/images/2023/07/01/5a99d93219538128f5dc545b80a87e58.png" alt="5a99d93219538128f5dc545b80a87e58.png" border="0"></a>
+<a href="https://imgtr.ee/image/IKeWx"><img src="https://imgtr.ee/images/2023/07/01/f36e6951b97b43b42202ab0043ca7878.png" alt="f36e6951b97b43b42202ab0043ca7878.png" border="0"></a>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
