@@ -77,12 +77,14 @@ In this tutorial, we will be setting up Sentinel in Azure Virtual Machines and m
 <a href="https://imgtr.ee/image/IKBWr"><img src="https://imgtr.ee/images/2023/07/01/2b0247a45b58d4ea26543a1bf631a947.png" alt="2b0247a45b58d4ea26543a1bf631a947.png" border="0"></a>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+-Next, we'll connect the log analytics and VM.
+-Go back to the Log analytics workspace and reopen the previously-made workspace, i.e. log-honeypot. Click the Virtual machines section in the left box. Then click the VM made earlier, i.e. honeypot, and click Connect.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<a href="https://imgtr.ee/image/IKOmj"><img src="https://imgtr.ee/images/2023/07/01/07fe9f701d0b8ab95f74397a15da227b.png" alt="07fe9f701d0b8ab95f74397a15da227b.png" border="0"></a>
+<a href="https://imgtr.ee/image/IKavD"><img src="https://imgtr.ee/images/2023/07/01/cc35ef7b963abc46f613c46da94973ae.png" alt="cc35ef7b963abc46f613c46da94973ae.png" border="0"></a>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
